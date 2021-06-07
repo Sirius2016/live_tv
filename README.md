@@ -4,7 +4,9 @@
 
 1、iptv源获取办法：
 
-> github和gitee上搜索iptv
+> 1.1、github和gitee上搜索iptv
+>
+> 2.2、[老伙计](https://laoguy.com/category/tvlive)
 
 
 
