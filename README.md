@@ -12,7 +12,9 @@
 
 > IPTVChecker_v2.5_Chs.exe
 >
-> 使用iptv检查出有效源之后，按状态排序，按shif键选中online源，右键属性，点击**“以M3u8格式复制频道”**
+> 2.1、使用iptv检查出有效源之后，按**状态**排序，按shif键选中Offline源，右键删除无效源。
+>
+> 2.2、按**频道名称**排序，按“ctrl + A”全选，右键点击**“以M3u8格式复制频道”**。
 
 
 
@@ -26,5 +28,5 @@
 
 http://sxc574118651.gitee.io/sxc/111.json
 
-
+https://gitee.com/zhengyushui/iptv0668/blob/master/iptv
 
