@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1 ,4K花园生活 24M2160
+http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
+#EXTINF:-1 ,4K花园娱乐 24M2160
+http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+#EXTINF:-1 ,4K花园影视 24M2160
+http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+#EXTINF:-1 ,芒果TV 4K
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+#EXTINF:-1 ,爱上4K 32M2160
+http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 ,爱上4K 22M2160
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场4K 12M2160
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#EXTINF:-1 ,纯享4K_4K
+http://111.12.102.68:6610/PLTV/77777777/224/3221225726/index.m3u8?
+#EXTINF:-1 ,纯享4K 20M2160
+http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
+#EXTINF:-1 ,百视通4K 22M2160
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,北京IPTV4K超清 17M2160
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 ,北京IPTV淘电影 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 ,北京IPTV淘剧场 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+#EXTINF:-1 ,CHC高清电影 8M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 ,CHC家庭影院 8M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 ,CHC动作电影 8M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 ,iHot爱科幻 8M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,iHot爱院线 8M1080
+http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,iHot爱军武 7.5M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
+#EXTINF:-1 ,iHot爱探索 7.5M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 ,iHot爱旅行 7.5M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 ,iHot爱科学 7.5M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 ,Hot欧美影院 720
+http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,Hot亚洲影院 720
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,Hot探索纪录 720
+http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,Hot漫游世界 720
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,iHot爱解密 7M1080
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,iHot爱奇谈 7M1080
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,iHot爱世界 7M1080
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,iHot爱院线 7M1080
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,iHot爱科幻 7M1080
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,iHot爱军武 7M1080
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,iHot爱院线 7M1080
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,Hot欧美影院 7M1080
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,Hot亚洲影院 7M1080
+http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CIBN新知
+https://live.elibei.com/tv/channel/cibn?id=23
+#EXTINF:-1 ,CIBN微电影
+https://live.elibei.com/tv/channel/cibn?id=32
+#EXTINF:-1 ,CCTV9 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 ,CCTV6 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
+#EXTINF:-1 ,CCTV13 8M1080
+http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-13/index.m3u8?IAS
+#EXTINF:-1 ,CCTV兵器科技 8M1080
+http://39.135.253.31/PLTV/88888888/224/3221230162/index.m3u8
+#EXTINF:-1 ,求索动物 8M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,求索生活 8M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,求索科学 8M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,求索纪录 8M1080
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ,NewTV超级电影 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
+#EXTINF:-1 ,NewTV超级电视剧 8M1080
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226368/1.m3u8
+#EXTINF:-1 ,NewTV动作电影
+http://111.12.102.68:6610/PLTV/77777777/224/3221225703/index.m3u8?
+#EXTINF:-1 ,NewTV精品记录
+http://111.12.102.68:6610/PLTV/77777777/224/3221225681/index.m3u8?
+#EXTINF:-1 ,NewTV军事评论
+http://111.12.102.68:6610/PLTV/77777777/224/3221225749/index.m3u8?
+#EXTINF:-1 ,NewTV惊悚悬疑
+http://111.12.102.68:6610/PLTV/77777777/224/3221225746/index.m3u8?
+#EXTINF:-1 ,NewTV海外剧场
+http://117.169.119.199:8080/live/xiqumd/index.m3u8
+#EXTINF:-1 ,SiTV新视觉 1080
+http://183.207.255.190/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV极速汽车 1080
+http://183.207.255.190/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV全纪实 1080
+http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 ,黑莓电影
+http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1 ,黑莓电影
+http://39.135.138.5:6610/PLTV/88888888/224/3221225718/2/index.m3u8
+#EXTINF:-1 ,CIBN音乐综艺
+http://v.iam7.cn/iptv/cibn.php?code=145
+#EXTINF:-1 ,HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 ,HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 ,HBO2
+http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:-1 ,HBO3
+http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:-1 ,香港viuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 ,香港viuTV
+http://hls.globaliptv.ml/viu99.php
+#EXTINF:-1 ,香港viuTV6
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 ,亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 ,凤凰资讯 10M1080
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 ,凤凰资讯 10M720
+http://117.169.119.199:8080/live/fhzixun/index.m3u8
+#EXTINF:-1 ,凤凰中文 10M720
+http://117.169.119.199:8080/live/fhchinese/index.m3u8
+#EXTINF:-1 ,凤凰中文 10M720
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 ,凤凰香港 10M720
+http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,凤凰香港 720
+http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8
+#EXTINF:-1 ,香港翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 ,香港明珠台
+http://116.199.5.52:8114/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,香港卫视HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,翡-翠-台 480
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 ,香-港-卫-视-5 576
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,纪实人文
+http://111.12.102.68:6610/PLTV/77777777/224/3221225688/index.m3u8?
+#EXTINF:-1 ,CNC中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 ,澳门资讯
+http://61.244.22.4/ch5/info_ch5.live/playelist.m3u8
+#EXTINF:-1 ,金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 ,Dox剧场 7M1080
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxjc
+#EXTINF:-1 ,Dox新知 7M1080
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxxz
+#EXTINF:-1 ,Dox映画 7M1080
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyh
+#EXTINF:-1 ,Dox环映 7M1080
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyx
+#EXTINF:-1 ,Dox雅趣 7M1080
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyq
+#EXTINF:-1 ,国家地理 576
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=gjdl
+#EXTINF:-1 ,AXN 576
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=axn
+#EXTINF:-1 ,Cinemax 576
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cinemax
+#EXTINF:-1 ,HBO 576
+http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hbo
+#EXTINF:-1 ,visit-X(標清) 480
+http://stream.visit-x.tv/vxtv/live_360p/chunklist.m3u8
+#EXTINF:-1 ,优-视-频道 720
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
