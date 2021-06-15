@@ -32,3 +32,12 @@ http://sxc574118651.gitee.io/sxc/111.json
 
 https://gitee.com/zhengyushui/iptv0668/blob/master/iptv
 
+
+
+5、客户端推荐：
+
+>  ios手机客户端：GoTV、Flex IPTV
+>
+> windows客户端：PotPlayer
+>
+> Android客户端：IPTV Pro
